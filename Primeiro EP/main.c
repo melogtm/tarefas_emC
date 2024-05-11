@@ -1,9 +1,5 @@
 #include<stdio.h> 
 /* Membros
-- Gabriel Trigueiro de Melo - 15511832 - Turma: 04
-- Eduardo Almeida Cavalcanti Melo - 15526004 - Turma: 04
-- Caio Augusto de Freitas Brito - 15444344 - Turma: 04
-- Enrico Lechar de Barros Aranha - 15449652 - Turma: 04
 
 Versão do GCC utilizado para compilação
 gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
